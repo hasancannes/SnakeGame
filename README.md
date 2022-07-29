@@ -1,3 +1,3 @@
 # SnakeGame
 
-![This is an image](SnakeGame/snakegame.png)
+![This is an image](snakegame.png)
